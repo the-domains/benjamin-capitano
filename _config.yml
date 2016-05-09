@@ -1,0 +1,28 @@
+name: Benjamin Capitano
+favicon: null
+layout_spectrum: 0.8790599007625133
+typography_spectrum: 0.6689028795808554
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.50048136129044
+  lightness: 0.7126227251719683
+  saturation: 0.603569061961025
+  rhythmicContrast: 0.4081167532131076
+purpose: []
